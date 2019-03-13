@@ -6,6 +6,15 @@ A disciplina de Programação Web 1 (PW1) do Curso Superior de Tecnologia de Sis
 
 A disciplina apresenta o seguinte [conteúdo](docs/CONTENT.md) que será dividido conforme este [roteiro de aula](docs/OUTLINE.md) e este [Google Classroom](https://classroom.google.com/u/2/c/MzEwNDY4MTA3MDJa).
 
+## Horário e ambiente
+
+As aulas da disciplina serão alocados nesses horários e ambientes:
+
+| Dia | Horário | Ambiente |
+|-|-|-|
+| Quarta | 13:00-14:40 | Sala de Informática 06 |
+| Quinta | 16:40-18:20 | Sala de Informática 06 |
+
 ## Avaliações
 
 A nota final será computado através da média ponderada das três maiores avaliações:
