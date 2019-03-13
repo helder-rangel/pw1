@@ -38,7 +38,7 @@ Toda a comunicação será realizada usando o [![Slack Status](https://ifpb.hero
 
 ### Bibliografia Complementar
 
-[![PHP e Ajax: direto ao ponto](assets/books/expert-php-and-mysql.jpg)](https://www.cienciamoderna.com.br/php-e-ajax---direto-ao-ponto/p) [![Pro PHP applocation performance](assets/books/pro-php-application-performance.jpg)](https://www.apress.com/br/book/9781430228981) [![Pro PHP Security](assets/books/pro-php-security.jpg)](https://www.apress.com/br/book/9781430233183) [![Zend Framework](assets/books/zend-framework.jpg)](https://mhebooklibrary.com/doi/book/10.1036/9780071639408) [![Objetos PHP](assets/books/objetos-php.jpg)](https://www.amazon.com.br/Objetos-Padroes-Pratica-Matt-Zandstra/dp/8576082411) [![PHP FIG](assets/books/php-fig-doc.png)](https://www.php-fig.org/psr/) [![Composer](assets/books/composer-doc.png)](https://getcomposer.org)
+[![PHP e Ajax: direto ao ponto](assets/books/php-e-ajax-direto-ao-ponto.jpg)](https://www.cienciamoderna.com.br/php-e-ajax---direto-ao-ponto/p) [![Pro PHP applocation performance](assets/books/pro-php-application-performance.jpg)](https://www.apress.com/br/book/9781430228981) [![Pro PHP Security](assets/books/pro-php-security.jpg)](https://www.apress.com/br/book/9781430233183) [![Zend Framework](assets/books/zend-framework.jpg)](https://mhebooklibrary.com/doi/book/10.1036/9780071639408) [![Objetos PHP](assets/books/objetos-php.jpg)](https://www.amazon.com.br/Objetos-Padroes-Pratica-Matt-Zandstra/dp/8576082411) [![PHP FIG](assets/books/php-fig-doc.png)](https://www.php-fig.org/psr/) [![Composer](assets/books/composer-doc.png)](https://getcomposer.org)
 
 <!-- Bibliografia Básica:
 
