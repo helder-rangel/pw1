@@ -1,0 +1,37 @@
+@startmindmap
+skinparam monochrome true
+* PW1
+-- Programação Back-end Web
+---_ A Web e o protocolo HTTP (client/server)
+---_ Integrando serviço ao servidor HTTP
+---_ Páginas estáticas versus páginas dinâmicas
+-- Linguagem PHP
+---_ Histórico
+---_ Características
+---_ Recursos
+-- Sintaxe do PHP
+---_ Introdução
+---_ Elementos básicos
+---_ Expressões
+---_ Sentenças
+---_ Funções
+---_ Objetos
+---_ Namespace
+++ Recursos da Web no PHP
++++_ Introdução
++++_ Manipulando Método do HTTP
++++_ Cookie e Sessão
+++ Extensões do PHP
++++_ Introdução
++++_ Bibliotecas padrões
++++_ Composer e Packagist
++++_ Bibliotecas de terceiro
+++ Laravel
++++_ Introdução
++++_ Rotas
++++_ Controller
++++_ Model
++++_ Eloquent
++++_ Blade Template
++++_ Autenticação
+@endmindmap
