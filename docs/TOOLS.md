@@ -9,8 +9,11 @@
 
 ## Ambiente MySQL
 
+- [MySQL WorkBench](https://www.mysql.com/products/workbench/)
+
 ## DevOps
 
+- TODO...
 
 ## Navegador
 - [Chrome](https://www.google.com/chrome/browser/index.html):

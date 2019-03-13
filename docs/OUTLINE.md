@@ -14,11 +14,12 @@
     - Servidor LAMP
 
 **Reflexão:**
-* O que você vai aprender em LM?
+* O que você vai aprender em PW1?
 * Qual o nome e utilidade das tecnologias você irá aprendar nesta disciplina?
+* Arquitetura do LAMP.
 
 **Exercício:**
-* Analise o [site da discplina](https://ifpb.github.io/lm/) e se inscreva no channel `#pw1-20191` do [slack do ifpb](https://ifpb.slack.com).
+* Analise o [site da discplina](https://ifpb.github.io/pw1/) e se inscreva no channel `#pw1-20191` do [slack do ifpb](https://ifpb.slack.com).
 * Configure seu computador com essas [ferramentas](TOOLS.md).
 
 ## \# 02 - Fundamentos de PHP (14/03/2019, QUI)
