@@ -12,11 +12,13 @@
   - [O que você vai aprender em PW1?](http://slides.com/luizcarlos/o-que-vou-aprender-em-pw1#/)
   - Conteúdo
     - Servidor LAMP
+    - Executando PHP de modo interativo com Docker.
 
 **Reflexão:**
 * O que você vai aprender em PW1?
 * Qual o nome e utilidade das tecnologias você irá aprendar nesta disciplina?
-* Arquitetura do LAMP.
+* Como funciona uma aplicação Web com LAMP?
+* Como executamos o PHP de como interativo usando o Docker?
 
 **Exercício:**
 * Analise o [site da discplina](https://ifpb.github.io/pw1/) e se inscreva no channel `#pw1-20191` do [slack do ifpb](https://ifpb.slack.com).
@@ -28,21 +30,31 @@
 **Conteúdo:**
 - [PHP Guide](https://ifpb.github.io/php-guide/)
   - [PHP Core](https://ifpb.github.io/php-guide/core/)
+    - [Values and Types](https://ifpb.github.io/php-guide/core/values-and-types/)
     - [Variable](https://ifpb.github.io/php-guide/core/variable/)
     - [Expression and Operator](https://ifpb.github.io/php-guide/core/expression-and-operator/)
+    - [Statements](https://ifpb.github.io/php-guide/core/statements/)
 
 **Reflexão:**
 * Como executamos código PHP?
+* Quais são os tipos da linguagem PHP?
 * Como declaramos variáveis no PHP?
 * Quais são os tipos de dados do PHP?
 * Quais são os operadores do PHP?
+* Quais são as estruturas de decisão e repetição do PHP?
 
 **Exercício:**
-* Crie um script para:
-  * Através de `x = 10` definir `x+2`
-  * Através de `x = 10` definir `x²`
-  * Através de `x = 10` definir `3x²+12x-4`
-  * Através de `x = 10` definir `x+3 > √x`
+* Através de `x = 10` crie um script para as seguintes expressões:
+
+| Expressão | Resultado |
+|-|-|
+| `x+2` | 12 |
+| `x²` | 100 |
+| `3x²+12x-4` | 416 |
+| `x+3 > √x` | true |
+
+* Calcular o [IMC](https://ifpb.github.io/php-exercises/core/basic/bmi/)
+* Gerar algumas [séries numéricas](https://ifpb.github.io/php-exercises/core/basic/numbers/)
 
 <!-- 
 ## \# 03 - (20/03/2019, QUA)
