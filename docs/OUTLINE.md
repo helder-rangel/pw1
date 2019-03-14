@@ -39,8 +39,7 @@
 * Como executamos código PHP?
 * Quais são os tipos da linguagem PHP?
 * Como declaramos variáveis no PHP?
-* Quais são os tipos de dados do PHP?
-* Quais são os operadores do PHP?
+* Quais são os operadores do PHP, e como elaboramos expressões?
 * Quais são as estruturas de decisão e repetição do PHP?
 
 **Exercício:**
