@@ -12,8 +12,8 @@ As aulas da disciplina serão alocados nesses horários e ambientes:
 
 | Dia | Horário | Ambiente |
 |-|-|-|
-| Quarta | 13:00-14:40 | Sala de Informática 06 |
-| Quinta | 16:40-18:20 | Sala de Informática 06 |
+| Quarta | 13:00-14:40 | Sala de Informática 09 |
+| Quinta | 16:40-18:20 | Sala de Informática 09 |
 
 ## Avaliações
 

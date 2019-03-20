@@ -2,11 +2,15 @@
 
 [\# 01 - Apresentação da Disciplina (13/03/2019, QUA)](#-01---apresentação-da-disciplina-13032019-qua)<br>
 [\# 02 - Fundamentos de PHP (14/03/2019, QUI)](#-02---fundamentos-de-php-14032019-qui)<br>
+[\# 03 - Algoritmos básicos no PHP (20/03/2019, QUA)](#-03---algoritmos-básicos-no-php-20032019-qua)<br>
+[\# 04 - Funções no PHP (21/03/2019, QUI)](#-04---funções-no-php-21032019-qui)<br>
 
 ## \# 01 - Apresentação da Disciplina (13/03/2019, QUA)
+
 ---
 
 **Conteúdo:**
+
 - Apresentação da disciplina:
   - Objetivo, conteúdo, avaliação, comunicação, bibliografia e ferramentas
   - [O que você vai aprender em PW1?](http://slides.com/luizcarlos/o-que-vou-aprender-em-pw1#/)
@@ -15,53 +19,113 @@
     - Executando PHP de modo interativo com Docker.
 
 **Reflexão:**
-* O que você vai aprender em PW1?
-* Qual o nome e utilidade das tecnologias você irá aprendar nesta disciplina?
-* Como funciona uma aplicação Web com LAMP?
-* Como executamos o PHP de como interativo usando o Docker?
+
+- O que você vai aprender em PW1?
+- Qual o nome e utilidade das tecnologias você irá aprendar nesta disciplina?
+- Como funciona uma aplicação Web com LAMP?
+- Como executamos o PHP de como interativo usando o Docker?
 
 **Exercício:**
-* Analise o [site da discplina](https://ifpb.github.io/pw1/) e se inscreva no channel `#pw1-20191` do [slack do ifpb](https://ifpb.slack.com).
-* Configure seu computador com essas [ferramentas](TOOLS.md).
+
+- Analise o [site da discplina](https://ifpb.github.io/pw1/) e se inscreva no channel `#pw1-20191` do [slack do ifpb](https://ifpb.slack.com).
+- Configure seu computador com essas [ferramentas](TOOLS.md).
 
 ## \# 02 - Fundamentos de PHP (14/03/2019, QUI)
+
 ---
 
 **Conteúdo:**
+
 - [PHP Guide](https://ifpb.github.io/php-guide/)
   - [PHP Core](https://ifpb.github.io/php-guide/core/)
     - [Values and Types](https://ifpb.github.io/php-guide/core/values-and-types/)
     - [Variable](https://ifpb.github.io/php-guide/core/variable/)
     - [Expression and Operator](https://ifpb.github.io/php-guide/core/expression-and-operator/)
-    - [Statements](https://ifpb.github.io/php-guide/core/statements/)
 
 **Reflexão:**
-* Como executamos código PHP?
-* Quais são os tipos da linguagem PHP?
-* Como declaramos variáveis no PHP?
-* Quais são os operadores do PHP, e como elaboramos expressões?
-* Quais são as estruturas de decisão e repetição do PHP?
+
+- Como executamos código PHP?
+- Quais são os tipos da linguagem PHP?
+- Como declaramos variáveis no PHP?
+- Quais são os operadores do PHP, e como elaboramos expressões?
+- Quais são as estruturas de decisão e repetição do PHP?
 
 **Exercício:**
-* Através de `x = 10` crie um script para as seguintes expressões:
 
-| Expressão | Resultado |
-|-|-|
-| `x+2` | 12 |
-| `x²` | 100 |
-| `3x²+12x-4` | 416 |
-| `x+3 > √x` | true |
+- Crie o script [Hello World](https://ifpb.github.io/php-exercises/core/basic/hello/)
+- Através de `x = 10` crie um script para as seguintes expressões:
 
-* Calcular o [IMC](https://ifpb.github.io/php-exercises/core/basic/bmi/)
-* Gerar algumas [séries numéricas](https://ifpb.github.io/php-exercises/core/basic/numbers/)
+| Expressão   | Resultado |
+| ----------- | --------- |
+| `x+2`       | 12        |
+| `x²`        | 100       |
+| `3x²+12x-4` | 416       |
+| `x+3 > √x`  | true      |
 
-<!-- 
-## \# 03 - (20/03/2019, QUA)
+## \# 03 - Algoritmos básicos no PHP (20/03/2019, QUA)
+
 ---
 
-## \# 04 - (21/03/2019, QUI)
+**Conteúdo:**
+
+- [PHP Guide](https://ifpb.github.io/php-guide/)
+  - [PHP Core](https://ifpb.github.io/php-guide/core/)
+    - [Statements](https://ifpb.github.io/php-guide/core/statements/): if, switch, for, while, do-while
+
+**Reflexão:**
+
+- Quais são as estruturas de decisão do PHP?
+- Quais são as estruturas de repetição do PHP?
+
+**Exercício:**
+
+- Crie o algoritmo de [Body Mass Index (BMI)](https://ifpb.github.io/php-exercises/core/basic/bmi/) usando `if` e `switch`;
+- Crie o algoritmo para exibir a séria de [00 até 99](https://ifpb.github.io/php-exercises/core/basic/numbers/) de dez em dez usando `for`, `while` e `do-while`;
+- Crie um script para:
+  - Gerar algumas [séries numéricas](https://ifpb.github.io/php-exercises/core/basic/numbers/)
+  - Gerar o calculo do [IRRF](https://ifpb.github.io/php-exercises/core/basic/irrf-2017/)
+  - Gerar esta [série harmônica](https://ifpb.github.io/php-exercises/core/basic/harmonic-series/)
+
+## \# 04 - Funções no PHP (21/03/2019, QUI)
+
 ---
 
+**Conteúdo:**
+
+- [PHP Guide](https://ifpb.github.io/php-guide/)
+  - [PHP Core](https://ifpb.github.io/php-guide/core/)
+    - [Function](https://ifpb.github.io/php-guide/core/function/)
+      - [Definição e chamada](https://ifpb.github.io/php-guide/core/function/#definition)
+      - [Case sensitive](https://ifpb.github.io/php-guide/core/function/#case-insensitive)
+      - [Escopo](https://ifpb.github.io/php-guide/core/function/#scope)
+      - [Parâmetro Default](https://ifpb.github.io/php-guide/core/function/#default-argument-values)
+      - require
+    - [Teste unitários](https://phptherightway.com/#testing)
+      - [Executando teste com o kahlan]()
+
+**Reflexão:**
+
+- Como declaramos e chamamos uma função em PHP?
+- O que acontece quando passamos uma quantidade de argumentos diferente do total de parâmetros?
+- Para chamar uma função é necessário declará-la antes de sua chamada?
+- É possível declarar uma variável dentro da função com o mesmo nome de uma variável fora da função?
+- O que são parâmetros default?
+- Qual é a configuração necessária para chamar uma função declarada em outro arquivo?
+- Qual é o benefício de utilizar testes unitários?
+- Como se configura e executa testes unitários usando o [kahlan](https://kahlan.github.io/docs/index.html)?
+- Qual é a importância do [composer](http://getcomposer.org/) para o PHP?
+
+**Exercício:**
+
+- Crie um script para:
+  - Calcular a [soma de números](https://ifpb.github.io/php-exercises/core/function/sum/)
+  - Calcular a [área do círculo](https://ifpb.github.io/php-exercises/core/function/area-of-circle/)
+  - Calcular as [operações aritméticas básicas](https://ifpb.github.io/php-exercises/core/function/calc/)
+  - Calcular o [fatorial](https://ifpb.github.io/php-exercises/core/function/factorial/)
+  - Verificar se os lados de [triângulo](https://ifpb.github.io/php-exercises/core/function/triangle-checker/) são válidos
+- Crie estes outros [scritps](https://ifpb.github.io/php-exercises/core/#function).
+
+<!--
 ## \# 05 - (27/03/2019, QUA)
 ---
 
