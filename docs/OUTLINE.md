@@ -99,7 +99,7 @@
       - [Case sensitive](https://ifpb.github.io/php-guide/core/function/#case-insensitive)
       - [Escopo](https://ifpb.github.io/php-guide/core/function/#scope)
       - [Parâmetro Default](https://ifpb.github.io/php-guide/core/function/#default-argument-values)
-      - require
+      - [Chamada de funções externas](https://ifpb.github.io/php-guide/core/statements/#includes)
     - [Teste unitários](https://phptherightway.com/#testing)
       - Gerenciando projetos com [packagist](https://ifpb.github.io/php-guide/packages/packagist/)
       - Executando teste com o [kahlan](https://ifpb.github.io/php-guide/packages/test/kahlan/)
@@ -123,7 +123,7 @@
   - Calcular a [área do círculo](https://ifpb.github.io/php-exercises/core/function/area-of-circle/)
   - Calcular as [operações aritméticas básicas](https://ifpb.github.io/php-exercises/core/function/calc/)
   - Calcular o [fatorial](https://ifpb.github.io/php-exercises/core/function/factorial/)
-  - Verificar se os lados de [triângulo](https://ifpb.github.io/php-exercises/core/function/triangle-checker/) são válidos
+  - Verificar se os lados de um [triângulo](https://ifpb.github.io/php-exercises/core/function/triangle-checker/) são válidos
 - Crie estes outros [scritps](https://ifpb.github.io/php-exercises/core/#function).
 
 <!--
