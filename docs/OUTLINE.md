@@ -101,7 +101,8 @@
       - [Parâmetro Default](https://ifpb.github.io/php-guide/core/function/#default-argument-values)
       - require
     - [Teste unitários](https://phptherightway.com/#testing)
-      - [Executando teste com o kahlan]()
+      - Gerenciando projetos com [packagist](https://ifpb.github.io/php-guide/packages/packagist/)
+      - Executando teste com o [kahlan](https://ifpb.github.io/php-guide/packages/test/kahlan/)
 
 **Reflexão:**
 
